@@ -50,7 +50,7 @@ void FSlateDemoPluginModule::PluginButtonClicked()
 {
 	TSharedRef<SWindow> Window = SNew(SWindow)
 		.Title(FText::FromString(TEXT("Slate Demo Panel")))
-		.ClientSize(FVector2D(400, 300))
+		.ClientSize(FVector2D(860, 720))
 		.SupportsMaximize(false)
 		.SupportsMinimize(false)
 		[

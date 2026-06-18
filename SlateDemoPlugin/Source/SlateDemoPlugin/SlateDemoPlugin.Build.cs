@@ -41,6 +41,7 @@ public class SlateDemoPlugin : ModuleRules
 				"ToolMenus",
 				"CoreUObject",
 				"Engine",
+				"Json",
 				"Slate",
 				"SlateCore",
 				// ... add private dependencies that you statically link with here ...	
